@@ -1,0 +1,121 @@
+---
+title: "ITP-W03-Shopify Training"
+author: "Ron Sabilla"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    toc-expand: true
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: cosmo
+    code-fold: true
+    code-tools: true
+    code-overflow: wrap
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Introduction {#sec-intro}
+
+This report documents my completion of the assigned **Shopify learning materials**, my exploration of the **Shopify admin area**, a reflection on key Shopify retail features, and a brief application reflection on how Shopify could support a local retail business such as the **CPP Farm Store**.[^1]
+
+[^1]: This assignment was prepared using Quarto and rendered to a self-contained HTML file as required by the submission guidelines.
+
+::: callout-note
+## Assignment Overview
+
+This document addresses each of the four graded prompts in order: evidence of learning completion, an admin exploration screenshot, a five-feature reflection, and the CPP Farm Store application reflection.
+:::
+
+# Evidence of Shopify Learning Completion {#sec-evidence}
+
+> Include a screenshot, certificate, completion page, notes, or other evidence showing that you completed the assigned Shopify learning materials.
+
+The screenshot below shows the **Shopify Academy** dashboard with the assigned courses marked **Complete**, confirming that I finished the assigned learning materials.
+
+![Shopify Academy completion page showing the three courses marked as Complete.](images:shopify-learning-completion.png){#fig-completion}
+
+As shown in @fig-completion, the following courses were completed:
+
+1.  **Introduction to Shopify** — Complete
+2.  **Navigating the Shopify Admin** — Complete
+3.  **Developing on Shopify** — Complete
+
+# Shopify Admin Exploration Screenshot {#sec-admin}
+
+> Include a screenshot showing that you accessed the Shopify admin area.
+
+The screenshot below confirms that I successfully accessed the **Shopify admin area**, showing the main dashboard and the left-hand navigation menu (Orders, Products, Customers, Discounts, Analytics, and more).
+
+![Shopify Academy completion page showing the three courses marked as Complete.](images:shopify-admin.png)
+
+# Feature Reflection {#sec-features}
+
+> Identify and briefly explain at least **five Shopify features** that are important for online retailing.
+
+Shopify offers several important features that help businesses successfully operate an online store. The five features below are central to online retailing.
+
+::: panel-tabset
+## Products
+
+The **Products** feature allows store owners to add and manage items by including descriptions, images, prices, and inventory information. It is the foundation of any online store, ensuring customers have accurate details before they buy.
+
+## Collections
+
+**Collections** organize products into categories, making it easier for customers to find what they are looking for. Grouping items (for example, by season, type, or sale status) streamlines browsing and improves the shopping experience.
+
+## Themes
+
+Customizable **Themes** enable businesses to create a professional and visually appealing storefront that reflects their brand identity. A polished, on-brand design builds customer trust and encourages purchases.
+
+## Orders
+
+The **Orders** feature helps retailers track purchases, process payments, and manage shipping and fulfillment efficiently. It keeps the entire transaction lifecycle organized in one place.
+
+## Analytics
+
+**Shopify Analytics** gives store owners valuable insights into sales performance, customer behavior, and website traffic, helping them make informed business decisions and identify growth opportunities.
+:::
+
+The table below summarizes these five features and why each matters for online retailing.
+
+| \#  | Feature     | Why It Matters                                     |
+|:---:|:------------|:---------------------------------------------------|
+|  1  | Products    | Manage item details, images, prices, and inventory |
+|  2  | Collections | Organize products into browsable categories        |
+|  3  | Themes      | Build a professional, on-brand storefront          |
+|  4  | Orders      | Track purchases, payments, and fulfillment         |
+|  5  | Analytics   | Gain insight into sales, customers, and traffic    |
+
+: Five key Shopify features for online retailing
+
+Together, these features (summarized in @tbl-features) create a seamless shopping experience for customers while providing businesses with the tools needed to manage and grow their online stores.
+
+::: callout-tip
+## Beyond the Five
+
+Shopify also offers many other retail-relevant features such as navigation, customers, marketing, discounts, apps, checkout, shipping, and store policies — any of which could deepen this reflection further.
+:::
+
+# CPP Farm Store Application Reflection {#sec-cppfarm}
+
+> In one short paragraph, explain how Shopify could potentially support CPP Farm Store or a similar local retail business.
+
+Shopify could help support the **CPP Farm Store** by providing an easy-to-manage online platform where customers can browse products, place orders, and make secure payments. The store could use Shopify to showcase fresh produce, merchandise, and seasonal items while keeping inventory updated in real time. Shopify's marketing tools and analytics could also help the CPP Farm Store promote products, track customer trends, and reach a larger audience beyond campus. By offering both online and in-store shopping options, Shopify could improve customer convenience and increase sales for the business.
+
+# Appendix {#sec-appendix}
+
+## Project Links
+
+- **GitHub Pages (published report):** `https://YOUR-USERNAME.github.io/assign1/` *(replace with your published URL after deploying to GitHub Pages)*
+- **GitHub Repository:** `https://github.com/YOUR-USERNAME/assign1` *(replace with your repository URL after pushing)*
+
+::: callout-important
+## Before Submitting
+
+Replace the two placeholder URLs above with your actual **GitHub Pages** and **GitHub repository** links after you push the project and publish it.
+:::
